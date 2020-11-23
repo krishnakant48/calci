@@ -1,0 +1,36 @@
+.cal{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px ;
+    
+}
+.tittle{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    background-color: gray;
+    border-radius: 10px;
+}
+.table{
+    height: 50px;
+    width: 300px;
+    background-color: gray;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+input[type="button"]{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(156, 226, 223);
+    
+    text-shadow: darkblue;
+}
+input[type="text"]{
+    width: 95%;
+    background: darkgreen;
+}
+body{
+    background-color: darkgray;
+}
